@@ -1,0 +1,116 @@
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\zero.png
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\cross.png
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.baml
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.baml
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.g.cs
+A:\university\fourth year first semester\ASP.NET\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.baml
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\zero.png
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\cross.png
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.baml
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.baml
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\admin\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\zero.png
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\cross.png
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.baml
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.baml
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\zero.png
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Resources\cross.png
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\EndGameWindow.baml
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.g.cs
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\ASP.NET\lab2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\View\HelloWindow.baml
